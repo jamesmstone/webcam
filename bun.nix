@@ -181,9 +181,9 @@
     url = "https://registry.npmjs.org/get-nonce/-/get-nonce-1.0.1.tgz";
     hash = "sha512-FJhYRoDaiatfEkUK8HKlicmu/3SGFD51q3itKDGoSTysQJBnfOcxU5GxnhE1E6soB76MbT0MBtnKJuXyAx+96Q==";
   };
-  "lucide-react@0.577.0" = fetchurl {
-    url = "https://registry.npmjs.org/lucide-react/-/lucide-react-0.577.0.tgz";
-    hash = "sha512-4LjoFv2eEPwYDPg/CUdBJQSDfPyzXCRrVW1X7jrx/trgxnxkHFjnVZINbzvzxjN70dxychOfg+FTYwBiS3pQ5A==";
+  "lucide-react@1.59.0" = fetchurl {
+    url = "https://registry.npmjs.org/lucide-react/-/lucide-react-1.59.0.tgz";
+    hash = "sha512-5qgMyyCPU6OvnKpLS2t693+ZtiqA8oaSweWoUows0BLFKFf6V75m4+CptpmohZHpD5IuOVIBXHBBiv2vpLJmtw==";
   };
   "react-dom@19.2.0" = fetchurl {
     url = "https://registry.npmjs.org/react-dom/-/react-dom-19.2.0.tgz";
